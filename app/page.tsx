@@ -53,7 +53,7 @@ export default function Home() {
 
       <header>
         <div className="container" style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-          <div className="logo">System.Ref</div>
+          <div className="logo">Wiz.DEV</div>
           <nav className="nav-links">
             <a href="#work">PROJECTS</a>
             <a href="#lab">LAB</a>
@@ -70,7 +70,7 @@ export default function Home() {
           <div className="hero-content">
             <p style={{ color: "var(--accent)", marginBottom: "10px" }}>{"[ INITIALIZING PROTOCOL... ]"}</p>
             <h1>
-              Creative <span>Developer</span> &amp; Designer
+              Creative <span>Full-Stack</span> Developer
             </h1>
             <p>
               Architecting digital experiences through a lens of brutalist minimalism and retro-futurism. Based in the
@@ -95,14 +95,14 @@ export default function Home() {
                 </button>
               </div>
             </div>
-            <img src="/hero-portrait.jpg" alt="Professional Portrait" className="hero-image" />
+            <img src="/hero.jfif" alt="Professional Portrait" className="hero-image" />
           </div>
         </section>
 
         {/* Stats */}
         <div className="stats-bar">
           <div className="stat-item">
-            <div className="stat-val">08+</div>
+            <div className="stat-val">02+</div>
             <div className="stat-label">Years XP</div>
           </div>
           <div className="stat-item">
@@ -145,10 +145,10 @@ export default function Home() {
                 className="project-img"
               />
               <div className="project-info">
-                <span className="project-tag">#WEB_DESIGN #UI_UX</span>
-                <h3 className="project-title">Vaporwave Interface System</h3>
+                <span className="project-tag">#FULL-STACK #WEB_APPLICATION</span>
+                <h3 className="project-title">RHU Management System</h3>
                 <p style={{ fontSize: "0.8rem", color: "var(--text-secondary)" }}>
-                  A complete design system inspired by 90s OS aesthetics with modern react functionality.
+                  A complete management system for Rural Health Unit Barangay Calumpang, General Santos City.
                 </p>
               </div>
             </div>
@@ -240,7 +240,7 @@ export default function Home() {
             <span className="output">{"> Analyzing core competencies..."}</span>
           </div>
           <div className="terminal-row">
-            <span className="output">{"[████████████████] 100% - FRONT-END ARCHITECTURE"}</span>
+            <span className="output">{"[████████████████] 100% - FULL-STACK DEVELOPER"}</span>
           </div>
           <div className="terminal-row">
             <span className="output">{"[████████████░░░░] 75% - INTERFACE DESIGN"}</span>
@@ -265,17 +265,17 @@ export default function Home() {
           <div className="footer-logo">
             <p style={{ color: "var(--accent)", fontSize: "0.8rem", marginBottom: "10px" }}>END_OF_PAGE</p>
             <h2>
-              SYS_REF
+              WIZ.DEV
               <br />
-              2024©
+              2026©
             </h2>
           </div>
           <div style={{ textAlign: "right" }}>
             <div style={{ marginBottom: "20px" }}>
-              <a href="#" style={{ color: "var(--text-primary)", textDecoration: "none", marginLeft: "20px" }}>
-                TWITTER
+              <a href="https://www.facebook.com/kyutiekev" target="_blank" style={{ color: "var(--text-primary)", textDecoration: "none", marginLeft: "20px" }}>
+                FACEBOOK
               </a>
-              <a href="#" style={{ color: "var(--text-primary)", textDecoration: "none", marginLeft: "20px" }}>
+              <a href="https://github.com/WizAsian" target="_blank" style={{ color: "var(--text-primary)", textDecoration: "none", marginLeft: "20px" }}>
                 GITHUB
               </a>
               <a href="#" style={{ color: "var(--text-primary)", textDecoration: "none", marginLeft: "20px" }}>
