@@ -18,7 +18,7 @@ const _syne = Syne({
 })
 
 export const metadata: Metadata = {
-  title: "Wiz.DEV - Full-Stack Developer",
+  title: "Wiz.DEV - Full-Stack Developer ",
   description: "Architecting digital experiences through a lens of brutalist minimalism and retro-futurism.",
   generator: "v0.app",
   icons: {
